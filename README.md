@@ -1,3 +1,3 @@
 # Cyberbug
 First gamejam project.
-game is pushing from github, fron 13:30 PT
+Project couldn't be pushed due to 100mb tranfer limit.
