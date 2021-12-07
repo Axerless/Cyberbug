@@ -1,6 +1,6 @@
-# Cyberbug
-First gamejam project.
+## Cyberbug
+First gamejam project for Game Off 2021.
 
-Project couldn't be pushed due to 100mb transfer limit. Still trying to fix it..
+Project files are in releases due to 100mb transfer limit.
 
-Here is link to download the project: https://pixellookstudio.itch.io/cyberbug
+[Download the project here](https://pixellookstudio.itch.io/cyberbug)
